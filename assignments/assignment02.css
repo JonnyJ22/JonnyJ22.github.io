@@ -52,16 +52,11 @@ img[alt="dog icon"] {
   right: 50px;
   below: 150px;
 }
+
 img[alt="bird icon"] {
-  position: absolute;
-}
-.positionMe {
   position: relative;
-}
-img[alt="bird icon"] {
-  position: absolute;
-  bottom: 50px;
-  right 250px;
+  top: 50px;
+  left: 250px;
 }
 nav {
   position: sticky;
@@ -90,6 +85,8 @@ table tr:hover {
 input:focus {
   background-color: pink;
 }
+
+
 
 /* --- pre-existing css --- */
 .stripey tr:nth-child(even) {
