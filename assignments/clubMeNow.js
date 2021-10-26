@@ -127,7 +127,7 @@ function resetAllClubDistances() {
 
 // navigate to "About" screen
 function displayAbout() {
-	// your code here
+	<a href="https://sleepydogdog.github.io/assignments/clubAboutPage.html">o</a>
 	// window.location.href = "clubAbout.html";
 }
 
