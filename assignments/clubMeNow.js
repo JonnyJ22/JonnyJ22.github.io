@@ -91,7 +91,9 @@ function displayClubDistanceEntryForm(c) {
 
 // replace the current "clubs" array with the previous one
 function undoLastShot() {
-        // your code here !
+	
+        undoManager_.undo();
+	refreshUndoRedo();
 }
 
 // create a new (default) "clubs" array
