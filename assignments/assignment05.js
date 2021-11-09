@@ -6,6 +6,7 @@
 
 <head>
     <link rel="stylesheet" href="assignment05.html">
+	    <script src="assignment05.html"></script>
   </head>
 
 var URL = "https://api.covid19api.com/summary";
