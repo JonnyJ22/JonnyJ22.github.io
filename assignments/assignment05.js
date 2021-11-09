@@ -3,7 +3,11 @@
 // use "var" keyword so code works in CodePen
 
 // Covid19api variables
-<script src="../assignments/assignment05.html"></script>
+
+<head>
+    <link rel="stylesheet" href="assignment05.js">
+  </head>
+
 var URL = "https://api.covid19api.com/summary";
 var covidJson;
 var covidJsObj;
