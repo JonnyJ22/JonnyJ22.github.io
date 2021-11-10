@@ -4,11 +4,6 @@
 
 // Covid19api variables
 
-<head>
-    <link rel="stylesheet" href="assignment05.html">
-	    <script src="assignment05.html"></script>
-  </head>
-
 var URL = "https://api.covid19api.com/summary";
 var covidJson;
 var covidJsObj;
